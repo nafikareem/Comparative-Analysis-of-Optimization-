@@ -6,20 +6,27 @@ The study emphasizes the importance of hyperparameter optimization, employing me
 
 The findings underscore the potential of machine learning and optimization techniques in addressing environmental challenges within the construction sector. Future work involves extending experiments to datasets with high skewness and kurtosis, refining the models, and publishing the findings in a reputable international journal.
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/11d1e984-058e-46c7-90f1-7d0f3ac5e651)
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/13e11233-20ae-44fb-9fb6-a2b1884c8f70)
 
 ## NOx Prediction
-![alt text](image-2.png)
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/c62e19c0-ea7b-458f-9da9-ad5f05ce4064)
+
+![image](https://github.com/user-attachments/assets/9257bb88-a4b1-4b17-a45a-0f74a2905038)
+
 ### Optimized NOx Prediction 
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/36e92a42-9e1f-4f97-a3d0-7d4daa0a1d22)
+
 
 ## HC Prediction
-![alt text](image-5.png)
-![alt text](image-6.png)
+![image](https://github.com/user-attachments/assets/f1875933-40bb-44a8-a92a-8b7d52cfed47)
+
+![image](https://github.com/user-attachments/assets/fd324564-b44f-4bbd-a9f3-5e845a766475)
+
 
 ## CO Prediction
-![alt text](image-7.png)
-![alt text](image-8.png)
+![image](https://github.com/user-attachments/assets/3c4c0259-c7a4-4ecf-bd00-92e3768a83b1)
+
+![image](https://github.com/user-attachments/assets/485f7485-94dd-4fe6-a53d-1db0f9c75748)
+
